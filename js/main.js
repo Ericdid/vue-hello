@@ -7,3 +7,11 @@ createApp({
     };
   },
 }).mount("#text");
+
+createApp({
+  data() {
+    return {
+      image_src: "./img/duck.jpg",
+    };
+  },
+}).mount(".duck");
