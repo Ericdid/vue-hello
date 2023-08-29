@@ -6,4 +6,4 @@ createApp({
       message: "Hello World",
     };
   },
-}).mount("#app");
+}).mount("#text");
